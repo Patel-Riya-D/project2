@@ -70,17 +70,20 @@ AIviHire/
 ## 📸 Sample Outputs
 
 ### 🏠 Dashboard Interface
-![Dashboard](screenshots/home_page.png)
-![Dashboard](screenshots/UI.png)
+![Home page](https://raw.githubusercontent.com/Patel-Riya-D/project2/main/home_page.png)
+
+### 🌌 User Interface
+![UI](https://raw.githubusercontent.com/Patel-Riya-D/project2/main/UI.png)
 
 ### 📊 Ranking Table
-![Ranking Table](screenshots/ranking_result.png)
+![Ranking Table](https://raw.githubusercontent.com/Patel-Riya-D/project2/main/ranking_result.png)
 
 ### 📈 Score Chart
-![Score Chart](screenshots/score_chart.png)
+![Score Chart](https://raw.githubusercontent.com/Patel-Riya-D/project2/main/score_chart.png)
+
 
 ### 💬 AIVi Assistant in Action
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](https://raw.githubusercontent.com/Patel-Riya-D/project2/main/chatbot.png)
 
 ---
 
